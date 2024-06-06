@@ -1,6 +1,6 @@
 server:
   port: ${PORT:8862}
-message: Configuration Server Up
+message: Producto Server Up
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
