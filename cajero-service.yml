@@ -1,6 +1,6 @@
 server:
   port: ${PORT:8863}
-message: Configuration Server Up
+message: Cajero Server Up
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
